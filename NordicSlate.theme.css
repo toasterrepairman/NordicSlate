@@ -1,6 +1,6 @@
 /**
  * @name Slate
- * @author Gibbu#1211 & Tropical#8908
+ * @author Gibbu#1211 & Tropical#8908 & toaster repairguy#1101
  * @version 1.3
  * @invite TeRQEPb
  * @description An optimized, consistent, and functional theme for Discord based on GitHub's design language.
@@ -42,7 +42,7 @@
 */
 
 @import url("https://discordstyles.github.io/AdjustableServerWidth/base.css");
-@import url("https://discordstyles.github.io/Slate/base.css");
+@import url("https://raw.githubusercontent.com/toasterrepairman/NordicSlate/master/base.css");
 
 /*
 ====================================================================================
