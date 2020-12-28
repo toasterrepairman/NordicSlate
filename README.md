@@ -3,7 +3,7 @@
 </p>
 <p align="center">An optimized, consistent, and functional theme for Discord based on GitHub's design language.</p>
 
-![](https://i.imgur.com/GEcQZhN.png)
+![](https://cdn.discordapp.com/attachments/612057164038799362/793198663559413790/NordicSlate.png)
 
 ---
 
