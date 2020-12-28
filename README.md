@@ -1,9 +1,9 @@
 <p align="center">
-  <img align="center" width="480px" height="234" src="https://i.imgur.com/5dQTQVp.png"></img>
+  <img align="center" width="480px" height="234" src="https://cdn.discordapp.com/attachments/612057164038799362/793198663559413790/NordicSlate.png"></img>
 </p>
 <p align="center">An optimized, consistent, and functional theme for Discord based on GitHub's design language.</p>
 
-![](https://cdn.discordapp.com/attachments/612057164038799362/793198663559413790/NordicSlate.png)
+![](https://cdn.discordapp.com/attachments/612057164038799362/793191498979082250/unknown.png)
 
 ---
 
